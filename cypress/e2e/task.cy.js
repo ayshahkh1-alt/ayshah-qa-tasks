@@ -3,7 +3,7 @@
 describe('Automation Exercise - Functional Tests', () => {
 
 
-  const email = 'ayshahkh4@gmail.com'
+  const email = 'ayshahkh5@gmail.com'
   const password = '1233'
 
   const slowDown = () => cy.wait(1000)
