@@ -2,11 +2,11 @@
 
 describe('Automation Exercise - Functional Tests', () => {
 
-  
-  const email = 'ayshahkh3@gmail.com'
+
+  const email = 'ayshahkh4@gmail.com'
   const password = '1233'
 
-  const slowDown = () => cy.wait(800)
+  const slowDown = () => cy.wait(1000)
 
   it('Create New User Account', () => {
     cy.visit('https://automationexercise.com')
