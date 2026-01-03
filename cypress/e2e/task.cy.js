@@ -2,6 +2,7 @@
 
 describe('Automation Exercise - Functional Tests', () => {
 
+  
   const email = 'ayshahkh3@gmail.com'
   const password = '1233'
 
